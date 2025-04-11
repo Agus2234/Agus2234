@@ -9,7 +9,7 @@
 <li>I love to learn to code in differnt languages</li>
 <li>I am looking forward to contribute on Open Source Projects💻</li>
 <li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
-<li>📭 Reach me at my mail @chaitanyapratapsingh24@gmail.com</li>
+<li>📭 Reach me at my mail josedavidagustin28@gmail.com</li>
 <ul>
 </div>
 
