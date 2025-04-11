@@ -1,6 +1,6 @@
 ![banner](https://drive.google.com/uc?export=view&id=1-mjUyCm0QYpisdufj1O7acOAKaKZiXrI "Bannre")
 
-<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 35> I'm Chaitanya Pratap Singh</h1>
+<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 35> I'm Jose David Agustin</h1>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 <img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra" align ="right" width = 50%>
 <div align = "left" width = 50%>
@@ -41,19 +41,19 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Agus2234/github-readme-stats"><img alt="Agus2234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agus2234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Agus2234/github-readme-stats"><img alt="Agus2234's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agus2234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+    <img src="https://komarev.com/ghpvc/?username=Agus2234">
 </a>
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Agus2234?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ----
 
-Credit: [Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)  
+Credit: [Agus2234](https://github.com/Agus2234)  
 Last Edited on: 31/1/2022
